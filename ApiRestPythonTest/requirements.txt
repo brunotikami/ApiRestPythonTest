@@ -1,0 +1,7 @@
+django >=1.9, <2
+django-rest-swagger
+djangorestframework
+django-tastypie
+django-filter-0.15.3
+lxml-3.6.4
+defusedxml-0.4.1
