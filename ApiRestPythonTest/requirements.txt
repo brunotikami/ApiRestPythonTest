@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 django >=1.9, <2
 django-rest-swagger
 djangorestframework
@@ -5,3 +6,7 @@ django-tastypie
 django-filter-0.15.3
 lxml-3.6.4
 defusedxml-0.4.1
+||||||| merged common ancestors
+=======
+django >=1.9, <2
+>>>>>>> 0fb8c18d68bd3af50f50bd2813b65e66bc90d492
